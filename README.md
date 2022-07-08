@@ -78,3 +78,4 @@ There are 2 options of uploading data for prediction:
 ---
 
 *Disclaimer: This model is based on Data Science Practices and nowhere is affiliated with any medical authority. Please consult with your doctor for consultations/medicines.*
+"# streamlit-to-heroku-tutorial" 
